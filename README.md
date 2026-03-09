@@ -45,19 +45,25 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
+<img width="1220" height="774" alt="BEEE ex 1 KVL" src="https://github.com/user-attachments/assets/3ce355a7-76b2-4438-8470-27ca69f4a08e" />
 
 
 b.  KCL:
+
+<img width="1337" height="848" alt="BEEE ex 1 KCL" src="https://github.com/user-attachments/assets/7790aebc-05f6-40e2-9e51-1b8f1378c533" />
+
  
 
 Calculation:
 
 a.   KVL:
  
+<img width="1212" height="1320" alt="image" src="https://github.com/user-attachments/assets/627fd299-23ca-4a1c-bf7d-2d395b92e753" />
 
 
 b.  KCL:
 
+<img width="1472" height="1600" alt="image" src="https://github.com/user-attachments/assets/00e312c6-23cc-4a1c-bf0b-7269cff6bb7f" />
 
 
 
@@ -65,10 +71,12 @@ Tabulation:
 
 a.   KVL:
  
+<img width="1414" height="616" alt="image" src="https://github.com/user-attachments/assets/a2875f01-fb05-46ca-9938-2a97e8afd0d6" />
 
 
 b.  KCL:
 
+<img width="1600" height="617" alt="image" src="https://github.com/user-attachments/assets/0806a0e7-19d1-4fe7-adbb-94ac97aed631" />
 
 
 RESULT:
