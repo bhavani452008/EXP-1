@@ -45,12 +45,12 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
-<img width="700" height="500" alt="BEEE ex 1 KVL" src="https://github.com/user-attachments/assets/3ce355a7-76b2-4438-8470-27ca69f4a08e" />
+<img width="500" height="400" alt="BEEE ex 1 KVL" src="https://github.com/user-attachments/assets/3ce355a7-76b2-4438-8470-27ca69f4a08e" />
 
 
 b.  KCL:
 
-<img width="700" height="500" alt="BEEE ex 1 KCL" src="https://github.com/user-attachments/assets/7790aebc-05f6-40e2-9e51-1b8f1378c533" />
+<img width="500" height="400" alt="BEEE ex 1 KCL" src="https://github.com/user-attachments/assets/7790aebc-05f6-40e2-9e51-1b8f1378c533" />
 
  
 
@@ -71,12 +71,12 @@ Tabulation:
 
 a.   KVL:
  
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a2875f01-fb05-46ca-9938-2a97e8afd0d6" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/a2875f01-fb05-46ca-9938-2a97e8afd0d6" />
 
 
 b.  KCL:
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/0806a0e7-19d1-4fe7-adbb-94ac97aed631" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0806a0e7-19d1-4fe7-adbb-94ac97aed631" />
 
 
 RESULT:
